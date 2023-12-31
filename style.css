@@ -31,3 +31,12 @@ body{
     justify-content: space-around;
     align-items: center;
 }
+.apresentação{
+    width: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.foto_Prof.Beraldi{
+    width: 13px;
+}

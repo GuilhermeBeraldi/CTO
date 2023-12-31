@@ -19,7 +19,17 @@ body{
     color: rgb(251, 215, 160);
     font-size: 25px;
 }
+.destacar_vermelho{
+    margin: auto;
+    background-color: rgba(231, 17, 17, 0.827);
+    color: white;
+    font-size: 30px;
+}
 
 .fotos_abertura{
-    
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
+

@@ -31,6 +31,9 @@ body{
     justify-content: space-around;
     align-items: center;
 }
+.foto_teste{
+    width: 10px;
+}
 .apresentação{
     width: 10px;
     display: flex;

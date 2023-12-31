@@ -25,11 +25,10 @@ body{
     color: white;
     font-size: 30px;
 }
-
 .fotos_abertura{
-    width: 5%;
+    width: 1%;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
-
+.

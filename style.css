@@ -41,3 +41,8 @@ body{
 .foto_Prof.Beraldi{
     width: 8%;
 }
+.links{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

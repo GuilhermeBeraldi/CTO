@@ -26,13 +26,12 @@ body{
     font-size: 30px;
 }
 .fotos_abertura{
-    width: 10px;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
-.foto_teste{
-    width: 10px;
+.fotos_abertura_tamanho{
+    width: 5%;
 }
 .apresentação{
     width: 10px;

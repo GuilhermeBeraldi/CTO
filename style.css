@@ -20,7 +20,6 @@ body{
     font-size: 25px;
 }
 .destacar_vermelho{
-    margin: auto;
     background-color: rgba(231, 17, 17, 0.827);
     color: white;
     font-size: 30px;

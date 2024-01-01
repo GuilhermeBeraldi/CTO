@@ -34,11 +34,10 @@ body{
     width: 5%;
 }
 .apresentação{
-    width: 10px;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
 .foto_Prof.Beraldi{
-    width: 13px;
+    width: 8%;
 }

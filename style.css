@@ -4,13 +4,14 @@
 }
 
 body{
-    background-color: blanchedalmond;
+    background-color: rgba(255, 198, 112, 0.459);
 }
 .titulo{
     font-size: 60px;
 }
 .texto{
     font-size: 25px;
+    margin-right: 4cm;
 }
 .destacar_verde{
     margin-left: 2cm;

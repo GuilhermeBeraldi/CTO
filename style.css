@@ -14,7 +14,7 @@ body{
 }
 .destacar_verde{
     margin-left: 3cm;
-    margin-right: auto;
+    margin-right: 8cm;
     background-color: rgb(0, 108, 0);
     color: rgb(251, 215, 160);
     font-size: 25px;
@@ -23,6 +23,7 @@ body{
     background-color: rgba(231, 17, 17, 0.827);
     color: white;
     font-size: 30px;
+    margin: auto;
 }
 .fotos_abertura{
     display: flex;
@@ -38,7 +39,7 @@ body{
     align-items: center;
 }
 .foto_Prof.Beraldi{
-    width: 10%;
+    width: 3%;
 }
 .links{
     display: flex;

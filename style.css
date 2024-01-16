@@ -34,6 +34,9 @@ body{
 .fotos_abertura_tamanho{
     width: 13%;
 }
+.Fotos_rodape_tamanho{
+    width: 10%
+}
 .foto_profGuilherme{
     width: 17%;
 }
@@ -49,4 +52,8 @@ body{
     display: flex;
     justify-content: space-around;
     align-items: center;
+}
+.rodape{
+    color: white;
+    background-color: black;
 }

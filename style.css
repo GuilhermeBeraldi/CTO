@@ -34,6 +34,9 @@ body{
 .fotos_abertura_tamanho{
     width: 13%;
 }
+.foto_profGuilherme{
+    width: 17%;
+}
 .apresentação{
     display: flex;
     justify-content: space-around;
